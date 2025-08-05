@@ -115,14 +115,4 @@ BUYER_AMOUNT=...
 
 See `package.json` for the full list.
 
-## Images & Assets
 
-Images are stored in the `image/` directory and can be used for documentation or token metadata.
-
-Discord: takhi777 in discord
-    
-Telegram: [@Takhi](https://t.me/@hi_3333)
-
-## License
-
-ISC
